@@ -6,3 +6,7 @@ const first_demo=()=>{
 const sonai_demo=()=>{
     console.log(`First Demo  of - ${my_name}`);
 }
+
+const apurba_features=()=>{
+    console.log(`Apurba Features`)
+}
