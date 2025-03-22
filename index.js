@@ -10,3 +10,6 @@ const sonai_demo=()=>{
 const apurba_features=()=>{
     console.log(`Apurba Features`)
 }
+const apurba_features_2=()=>{
+    console.log(`Apurba Features 2`)
+}
